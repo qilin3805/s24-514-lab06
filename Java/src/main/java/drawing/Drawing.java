@@ -51,5 +51,9 @@ public class Drawing {
             }
         }
     }
+
+
+    // one ConcreteWriter class
+    // public ConcreteWriter(String name, String surfix) { //surfix
 }
 

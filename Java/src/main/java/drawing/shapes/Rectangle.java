@@ -24,4 +24,8 @@ public class Rectangle implements Shape {
                 new Line(this.points[3], this.points[0])
         };
     }
+
+
+    // toLInes: private
+    // draw: public in concrete class
 }
